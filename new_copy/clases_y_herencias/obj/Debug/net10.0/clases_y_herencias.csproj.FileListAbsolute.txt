@@ -1,0 +1,15 @@
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\bin\Debug\net10.0\clases_y_herencias.exe
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\bin\Debug\net10.0\clases_y_herencias.deps.json
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\bin\Debug\net10.0\clases_y_herencias.runtimeconfig.json
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\bin\Debug\net10.0\clases_y_herencias.dll
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\bin\Debug\net10.0\clases_y_herencias.pdb
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.AssemblyInfo.cs
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.sourcelink.json
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.dll
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\refint\clases_y_herencias.dll
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.pdb
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\clases_y_herencias.genruntimeconfig.cache
+C:\Users\laura\source\repos\csharp-from-scratch\new_copy\clases_y_herencias\obj\Debug\net10.0\ref\clases_y_herencias.dll
